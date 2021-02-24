@@ -41,7 +41,7 @@ In order to run this programe you will need:
 * STML
 
 ## Instructions
-After lounchiing the app you can draw obstacles by clisking left mouse button and dragging mouse across the space you want the obstacles to be placed in. This works similarily to using paint.
+After lounching the app you can draw obstacles by clicking left mouse button and dragging mouse across the space you want the obstacles to be placed in. This works similarily to using paint.
 In order to place starting point you need to click "S" button on your keybord. Clicking "E" button allows placement of ending point. Clicking any of those buttons turns point placement mode in application 
 which is turned off by clicking the button again or placing the point that you intended to. Clicking "C" button clears the screan from any placed blocks. Finaly in order to start the algorithm you need to 
 press "Space". The algorithm wont start if starting or end point is not present. During algorithm work you cant draw anything on the screen. If the algorithm finishes you can draw again and pressing "Space" 
