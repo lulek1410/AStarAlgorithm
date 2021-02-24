@@ -1,0 +1,18 @@
+﻿  astar.cpp
+  grid.cpp
+H:\Programowanie\C++\Astar\Astar\grid.cpp(42,134): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+H:\Programowanie\C++\Astar\Astar\grid.cpp(42,117): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  main.cpp
+  main_window.cpp
+  Generating Code...
+H:\Programowanie\C++\Astar\Astar\grid.cpp(27): warning C4715: 'Grid::getEndCell': not all control paths return a value
+H:\Programowanie\C++\Astar\Astar\grid.cpp(18): warning C4715: 'Grid::getStartingCell': not all control paths return a value
+  Astar.vcxproj -> H:\Programowanie\C++\Astar\Debug\Astar.exe
