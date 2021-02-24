@@ -47,6 +47,6 @@ which is turned off by clicking the button again or placing the point that you i
 press "Space". The algorithm wont start if starting or end point is not present. During algorithm work you cant draw anything on the screen. If the algorithm finishes you can draw again and pressing "Space" 
 will clear previous run and start new one.
 
-##Status
+## Status
 Project is: _curently finished_
 
