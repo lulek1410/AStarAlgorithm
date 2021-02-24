@@ -30,15 +30,15 @@ the goal.
 
 >Finished algorithm
 
-![finished](Screnshots/finished.png)
+![finished](Screenshots/finished.png)
 
 ## Setup
 In order to run this programe you will need:
-*STML library
+* STML library
 
 ## Technologies
-*C++20
-*STML
+* C++20
+* STML
 
 ## Instructions
 After lounchiing the app you can draw obstacles by clisking left mouse button and dragging mouse across the space you want the obstacles to be placed in. This works similarily to using paint.
